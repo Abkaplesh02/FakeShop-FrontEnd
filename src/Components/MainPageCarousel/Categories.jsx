@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import MyPic from "../../assets/Mens.png"
 import MyPic1 from "../../assets/Women.png"
+=======
+import MyPic from "../../assets/mens.png"
+import MyPic1 from "../../assets/women.png"
+>>>>>>> 4c9cfdf (update)
 import MyPic2 from "../../assets/kidsP.png"
 import MyPic3 from "../../assets/HomeDecor.png"
 import MyPic4 from "../../assets/Beauty.png"
